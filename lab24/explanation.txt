@@ -1,0 +1,1 @@
+I ran out of time, I didn't really understand how I was supposed to compare the vertices by weight.  I only figured out how to override the compare method using a lambda in the priority queue.  I tried a lot of other ways using maps and using edges but none of those really worked as a work around.
